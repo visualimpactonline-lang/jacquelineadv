@@ -1,12 +1,12 @@
 export const officeInfo = {
-  lawyerName: 'Luis Fernando Silveira Luvizotto',
-  shortName: 'Luis Fernando Silveira Luvizotto',
+  lawyerName: 'Jacqueline Alves',
+  shortName: 'Jacqueline Alves',
   oab: 'OAB/SP 399821',
   city: 'Piracicaba/SP',
   whatsappNumber: '5511999999999',
   whatsappDisplay: '(11) 99999-9999',
   email: 'contato@escritorio.com.br',
-  addressLabel: 'Piracicaba/SP',
+  addressLabel: 'Santa Barbara D'Oeste/SP',
   mapsUrl: 'https://maps.google.com/?q=Piracicaba+SP',
 };
 
