@@ -6,7 +6,7 @@ export const officeInfo = {
   whatsappNumber: '5511999999999',
   whatsappDisplay: '(11) 99999-9999',
   email: 'contato@escritorio.com.br',
-  addressLabel: 'Santa Barbara'/SP'
+  addressLabel: 'Santa Barbara/SP',
   mapsUrl: 'https://maps.google.com/?q=Piracicaba+SP'
 };
 
