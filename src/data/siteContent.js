@@ -1,7 +1,7 @@
 export const officeInfo = {
   lawyerName: 'Jacqueline Alves',
   shortName: 'Jacqueline Alves',
-  oab: 'OAB/SP 399821',
+  oab: 'OAB/SP xxxx',
   city: 'Piracicaba/SP',
   whatsappNumber: '5511999999999',
   whatsappDisplay: '(11) 99999-9999',
